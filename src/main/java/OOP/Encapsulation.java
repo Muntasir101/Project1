@@ -2,8 +2,9 @@ package OOP;
 
 public class Encapsulation {
     public static void main(String[] args) {
+        
         Person person1 = new Person();
-        person1.setName("John");
+        person1.setName("Green");
         person1.setAge(20);
         person1.setPhoneNumber(123456);
 
@@ -17,12 +18,11 @@ public class Encapsulation {
 
         System.out.println("Animal1 Name: " + tiger.getName());
         System.out.println("Animal1 Age: " + tiger.getAge());
-
     }
 }
 
 class Person{
-    private String name;
+    private String name= "John";
     private int age;
 
     private int phoneNumber;

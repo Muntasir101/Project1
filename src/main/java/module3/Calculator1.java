@@ -12,7 +12,6 @@ public class Calculator1 {
     public void subtraction(){
         int result = number1 - number2;
         System.out.println(result);
-
     }
 
     public static void main(String[] args) {
@@ -20,5 +19,6 @@ public class Calculator1 {
 
         Calculator1 obj = new Calculator1();
         obj.subtraction();
+
     }
 }

@@ -78,8 +78,6 @@ public class ConstructorProject {
         System.out.println("Book5 Rating: "+ book4.getRating());
 
         Book book6 = new Book("hello","John",2000);
-
-
     }
 
 }

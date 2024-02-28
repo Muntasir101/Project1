@@ -73,6 +73,10 @@ public class ConstructorProject {
         Book book4 = new Book("The Java","Paulo",2020,100,5);
         System.out.println("Book4 Rating: "+ book4.getRating());
 
+        // Constructor 3 initialize
+        Book book5 = new Book("The Java2","Paulo",2020,100,5);
+        System.out.println("Book5 Rating: "+ book4.getRating());
+
     }
 
 }

@@ -77,6 +77,9 @@ public class ConstructorProject {
         Book book5 = new Book("The Java2","Paulo",2020,100,5);
         System.out.println("Book5 Rating: "+ book4.getRating());
 
+        Book book6 = new Book("hello","John",2000);
+
+
     }
 
 }

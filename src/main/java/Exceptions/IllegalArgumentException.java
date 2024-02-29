@@ -1,4 +1,4 @@
-package Excpetions;
+package Exceptions;
 
 public class IllegalArgumentException {
     public static void main(String[] args) {

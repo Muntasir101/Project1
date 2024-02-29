@@ -1,4 +1,4 @@
-package Excpetions;
+package Exceptions;
 
 // Java program to demonstrate ArithmeticException
 class ArithmeticException_Demo
